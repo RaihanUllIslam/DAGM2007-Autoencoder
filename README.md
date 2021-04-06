@@ -18,4 +18,4 @@ Augmentor\
 In this notebook I try to use and learn about autoencoder to detect flaw in industrial dataset DAGM-2007. \
 \
 \
-![Screenshot2](screenshot2.png) 
+![Screenshot](screenshot.png) 
